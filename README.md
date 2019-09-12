@@ -1,0 +1,2 @@
+# HelloWordQueue
+HelloWordQueue .Net Core
